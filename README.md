@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-<p align="left">
+<p align="center">
 I’m Joanna, a BSIT student focusing on <b>UI/UX</b>, <b>frontend development</b>, and <b>databases</b>.
 </p>
 <br>
